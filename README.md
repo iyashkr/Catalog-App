@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Application-Catalog_App-yellow.svg)
 ![](https://img.shields.io/badge/Programming_Language-Dart-blue.svg)
 ![](https://img.shields.io/badge/Framework_Used-Flutter-brown.svg)
-![](https://img.shields.io/badge/Dart_Version-2.15.1-skyblue.svg)
-![](https://img.shields.io/badge/Flutter_Version-2.8.1-skyblue.svg)
+![](https://img.shields.io/badge/Dart_Version-2.18.6-skyblue.svg)
+![](https://img.shields.io/badge/Flutter_Version-3.3.10-skyblue.svg)
 ![](https://img.shields.io/badge/Level-Intermediate-red.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
