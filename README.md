@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Framework_Used-Flutter-brown.svg)
 ![](https://img.shields.io/badge/Dart_Version-2.18.6-skyblue.svg)
 ![](https://img.shields.io/badge/Flutter_Version-3.3.10-skyblue.svg)
-![](https://img.shields.io/badge/Level-Intermediate-red.svg)
+![](https://img.shields.io/badge/Level-Basic-red.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
 <h1 align="center">Catalog App</h1>
